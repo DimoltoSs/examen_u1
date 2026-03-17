@@ -82,8 +82,9 @@ class _HomePageState extends State<HomePage> {
                   ConsoleTab(onAddToCart: addToCart),
                   ControlTab(onAddToCart: addToCart),
                   GamesTab(onAddToCart: addToCart),
-                  GiftcardTab(onAddToCart: addToCart),
                   PerifericosTab(onAddToCart: addToCart),
+                  GiftcardTab(onAddToCart: addToCart),
+                  
                 ],
               ),
             ),
